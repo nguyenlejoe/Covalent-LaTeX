@@ -1,19 +1,19 @@
 # Fdb version 4
-["bibtex cv"] 1689714119 "cv.aux" "cv.bbl" "cv" 1689714137 0
+["bibtex covalent-network-whitepaper"] 1689720539 "covalent-network-whitepaper.aux" "covalent-network-whitepaper.bbl" "covalent-network-whitepaper" 1689720540 0
   "/usr/local/texlive/2023/texmf-dist/bibtex/bib/gloss/sample.bib" 1136766823 2721 b88105703bd616b4f9867992219afb8a ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/alpha.bst" 1292289607 23907 a5f93555796fb564b924339521f10a7c ""
-  "cv.aux" 1689714137 1529 01675d72f2caf9b75e0aaf6082ccf8cd "xelatex"
+  "covalent-network-whitepaper.aux" 1689720540 1529 be0ccb00dac0205c9f64a304e78326b4 "xelatex"
   (generated)
-  "cv.bbl"
-  "cv.blg"
+  "covalent-network-whitepaper.bbl"
+  "covalent-network-whitepaper.blg"
   (rewritten before read)
-["xdvipdfmx"] 1689714137 "cv.xdv" "cv.pdf" "cv" 1689714137 0
-  "cv.xdv" 1689714137 34632 0559d92715c70d26cbc8ad68bc22b887 "xelatex"
+["xdvipdfmx"] 1689720540 "covalent-network-whitepaper.xdv" "covalent-network-whitepaper.pdf" "covalent-network-whitepaper" 1689720540 0
+  "covalent-network-whitepaper.xdv" 1689720540 35248 536afa8d12053312a648cfef274cde4f "xelatex"
   (generated)
-  "cv.pdf"
+  "covalent-network-whitepaper.pdf"
   (rewritten before read)
-["xelatex"] 1689714136 "/Users/joe/Desktop/Covalent-LaTeX/cv.tex" "cv.xdv" "cv" 1689714137 0
-  "/Users/joe/Desktop/Covalent-LaTeX/cv.tex" 1689714136 4303 e35158bd41a3cbf8c6bc081eb5b00a4d ""
+["xelatex"] 1689720539 "/Users/joe/Desktop/Covalent-LaTeX/covalent-network-whitepaper/covalent-network-whitepaper.tex" "covalent-network-whitepaper.xdv" "covalent-network-whitepaper" 1689720540 0
+  "/Users/joe/Desktop/Covalent-LaTeX/covalent-network-whitepaper/covalent-network-whitepaper.tex" 1689720538 4255 0dc0af08f67b382e2c2b61e6004c506e ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -86,18 +86,19 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657483315 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty" 1670275497 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty" 1625518490 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty" 1654720880 32329 5d201ab4b4c773e7c876c2a052b07be3 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty" 1655066402 56148 51a9a8571c07b9921892ae11063ae853 ""
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1689632047 10502839 3b88f4209eea8cb48d10f8075986e3a8 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "cv.aux" 1689714137 1529 01675d72f2caf9b75e0aaf6082ccf8cd "xelatex"
-  "cv.bbl" 1689714119 49 0eba253fc001332e731e8aba3f23127b "bibtex cv"
-  "cv.out" 1689714137 1490 fdaccc043ad234e7873a31da2269f000 "xelatex"
-  "cv.tex" 1689714136 4303 e35158bd41a3cbf8c6bc081eb5b00a4d ""
+  "covalent-network-whitepaper.aux" 1689720540 1529 be0ccb00dac0205c9f64a304e78326b4 "xelatex"
+  "covalent-network-whitepaper.bbl" 1689720539 49 0eba253fc001332e731e8aba3f23127b "bibtex covalent-network-whitepaper"
+  "covalent-network-whitepaper.out" 1689720540 1490 fdaccc043ad234e7873a31da2269f000 "xelatex"
+  "covalent-network-whitepaper.tex" 1689720538 4255 0dc0af08f67b382e2c2b61e6004c506e ""
   (generated)
-  "cv.aux"
-  "cv.log"
-  "cv.out"
-  "cv.xdv"
+  "covalent-network-whitepaper.aux"
+  "covalent-network-whitepaper.log"
+  "covalent-network-whitepaper.out"
+  "covalent-network-whitepaper.xdv"
   (rewritten before read)

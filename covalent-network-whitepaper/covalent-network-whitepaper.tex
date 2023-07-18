@@ -1,10 +1,12 @@
 \documentclass{article}
 
 % Set page size and margins
-\usepackage[letterpaper,top=2cm,bottom=2cm,left=2cm,right=2cm,marginparwidth=1.75cm]{geometry}
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=1.5cm,right=1.5cm,marginparwidth=1.75cm]{geometry}
 \usepackage{setspace}
 \setstretch{1.5}
-
+% Set column length
+\usepackage{multicol}
+\setlength{\columnsep}{25pt}
 
 % Useful packages
 \usepackage{amsmath}
@@ -14,7 +16,7 @@
 \usepackage{xcolor}
 \usepackage{fontspec}
 
-\title{Covalent Latex}
+\title{Covalent Network Whitepaper}
 \author{Niall}
 \definecolor{pink}{RGB}{255,76,139}  % Customize RGB values
 \titleformat{\section}{\color{pink}\Large}{\thesection}{18pt}{}
@@ -25,6 +27,7 @@
 \fontsize{12}{14}\selectfont
 \maketitle
 
+\begin{multicols}{2}
 
 \section{Introduction}
 
@@ -35,12 +38,6 @@ Once you're familiar with the editor, you can find various project settings in t
 \section{Some examples to get started}
 
 Note that your figure will automatically be placed in the most appropriate place for it, given the surrounding text and taking into account other figures or tables that may be close by. You can find out more about adding images to your documents in this help article on \href{https://www.overleaf.com/learn/how-to/Including_images_on_Overleaf}{including images on Overleaf}.
-
-% \begin{figure}
-% \centering
-% \includegraphics[width=0.25\linewidth]{frog.jpg}
-% \caption{\label{fig:frog}This frog was uploaded via the file-tree menu.}
-% \end{figure}
 
 
 \section{How to add Lists}
@@ -84,5 +81,5 @@ We hope you find Overleaf useful, and do take a look at our \href{https://www.ov
 \nocite{ref1,ref2,ref3}
 \bibliographystyle{alpha}
 \bibliography{sample}
-
+\end{multicols} 
 \end{document}
