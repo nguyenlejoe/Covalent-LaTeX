@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[twocolumn]{article}
 
 % Set page size and margins
 \usepackage[letterpaper,top=2cm,bottom=2cm,left=1.5cm,right=1.5cm,marginparwidth=1.75cm]{geometry}
@@ -17,7 +17,7 @@
 \usepackage{fontspec}
 
 \title{Covalent Network Whitepaper}
-\author{Niall}
+\author{Ryan}
 \definecolor{pink}{RGB}{255,76,139}  % Customize RGB values
 \titleformat{\section}{\color{pink}\Large}{\thesection}{18pt}{}
 
@@ -27,13 +27,20 @@
 \fontsize{12}{14}\selectfont
 \maketitle
 
-\begin{multicols}{2}
-
 \section{Introduction}
 
 Your introduction goes here! Simply start writing your document and use the Recompile button to view the updated PDF preview. Examples of commonly used commands and features are listed below, to help you get started.
 
 Once you're familiar with the editor, you can find various project settings in the Overleaf menu, accessed via the button in the very top left of the editor. To view tutorials, user guides, and further documentation, please visit our \href{https://www.overleaf.com/learn}{help library}, or head to our plans page to \href{https://www.overleaf.com/user/subscription/plans}{choose your plan}.
+
+
+\begin{figure*}[t]
+    \centering
+    \includegraphics[width=\textwidth]{overall-covalent-network-api.jpg}
+    \caption{Testing image}
+    \label{fig:example}
+\end{figure*}
+
 
 \section{Some examples to get started}
 
@@ -53,7 +60,6 @@ You can make lists with automatic numbering \dots
 \item Like this,
 \item and like this.
 \end{itemize}
-
 
 \subsection{How to change the margins and paper size}
 
@@ -81,5 +87,4 @@ We hope you find Overleaf useful, and do take a look at our \href{https://www.ov
 \nocite{ref1,ref2,ref3}
 \bibliographystyle{alpha}
 \bibliography{sample}
-\end{multicols} 
 \end{document}
